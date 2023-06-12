@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528987949761",
+    "project_id": "encription-caht",
+    "storage_bucket": "encription-caht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528987949761:android:b5a96e522a28220542e240",
+        "android_client_info": {
+          "package_name": "com.encription.caht.encription_caht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528987949761-v5jcmenqe39qi7kt6p3eioc1b43upkj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0SbNJzyj_tVyrjY32MPsPPuYd9FRn4f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528987949761-v5jcmenqe39qi7kt6p3eioc1b43upkj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
